@@ -7,3 +7,4 @@
 | Kshitiz Surana    | https://kshitiz-dva-portfolio.vercel.app  |
 | Soumya Tiwari | https://portfolio-dva-soumya.vercel.app/ |
 | Chirag Lalwani | https://dva-portfolio-rho-fawn.vercel.app/
+| Yachna Khanna | https://yachna297.github.io/DVA_Portfolio/ |
